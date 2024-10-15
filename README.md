@@ -1,1 +1,1 @@
-# instagram-posting
+# Instagram Posting
